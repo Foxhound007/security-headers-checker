@@ -12,7 +12,6 @@ A simple Python tool that checks the presence of important HTTP security headers
 ## 💡 Why Use It?
 
 - No setup or logs needed — works on any live website
-- Lightweight and interview-ready
 - Great as a quick audit or security assessment tool
 
 ## 🚀 Usage
